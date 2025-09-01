@@ -1,21 +1,23 @@
 ---
-title: "About"
-description: "Learn more about me"
+title: "About Me"
+description: "[Your professional tagline]"
 showDate: false
 showAuthor: false
 showReadingTime: false
 ---
 
-## About Me
+## Hello, I'm [Your Name]
 
-Hello! I'm a passionate individual with interests in technology, creativity, and continuous learning.
+[2-3 paragraph bio about your education, what you're passionate about, current focus]
 
-### What I Do
+### What Drives Me
 
-- **Professional Focus**: Describe your main work or interests
-- **Skills**: List your key skills and expertise
-- **Interests**: Share your hobbies and personal interests
+[What motivates you in your field - DevOps, cloud, software engineering, etc.]
 
-### Get In Touch
+### Current Focus
 
-Feel free to reach out if you'd like to connect or collaborate on interesting projects.
+[What you're currently working on - preparing for internships, learning specific technologies, etc.]
+
+### Beyond Code
+
+[Your hobbies and interests - game dev, creative projects, etc.]

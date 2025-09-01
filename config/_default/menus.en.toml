@@ -15,6 +15,26 @@
   pageRef = "about"
   weight = 10
 
+[[main]]
+  name = "Skills"
+  pageRef = "skills"
+  weight = 20
+
+[[main]]
+  name = "Projects"
+  pageRef = "projects"
+  weight = 30
+
+[[main]]
+  name = "Resume"
+  pageRef = "resume"
+  weight = 40
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 50
+
 #[[main]]
 #  name = "Parent"
 #  weight = 20
