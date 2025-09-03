@@ -21,3 +21,6 @@ showReadingTime: false
 ### Beyond Code
 
 [Your hobbies and interests - game dev, creative projects, etc.]
+
+## This website's repository
+{{< github repo="SubaruLenz/Personal-Website" showThumbnail=false >}}

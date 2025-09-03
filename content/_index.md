@@ -5,7 +5,7 @@ description: "Personal website and CV showcase"
 
 ## About Me
 
-Hi, My name is **Kien** — welcome to my space on the internet 🌸. 
+Hi, My name is **Kien** — welcome to my space on the internet 🌸
 
 I’m currently finishing my computer science degree at  
 [Swinburne University of Technology](https://swinburne-vn.edu.vn)  

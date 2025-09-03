@@ -17,5 +17,6 @@ showReadingTime: false
 
 ### Current Focus
 - [What you're looking for - internships, opportunities, etc.]
+- I'm looking for an internship oppotunity for more challenge and opotunities to meet more awesome
 - [Areas of interest for collaboration]
 - [Availability for projects]
