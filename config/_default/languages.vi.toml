@@ -1,0 +1,33 @@
+disabled = false
+languageCode = "vi"
+languageName = "Tiếng Việt"
+weight = 2
+enableCodeCopy = true
+title = "Trang web cá nhân"
+
+[params]
+  displayName = "VI"
+  isoCode = "vi"
+  rtl = false
+  dateFormat = "2 January, 2006"
+  # logo = "profile_rounded.png"
+  secondaryLogo = "profile.jpeg"
+  description = "Thông tin cá nhân và công việc"
+  # copyright = "Copy, _right?_ :thinking_face:"
+
+[params.author]
+  name = "Nguyễn Trung Kiên"
+  image = "profile.jpeg"
+  email = "admin@suba-server.org"
+  headline = "Phát Triển Phần Mềm | Yêu Thích Linux"
+  bio = "Phát Triển Phần Mềm | Yêu Thích Linux"
+  links = [
+    { email = "mailto:admin@suba-server.org" },
+    { link = "https://suba-server.org/" },
+    { facebook = "https://facebook.com/SubaruLenz" },
+    { github = "https://github.com/SubaruLenz" },
+    { linkedin = "https://www.linkedin.com/in/nguyetrungkien/" },
+    { steam = "https://steamcommunity.com/profiles/SubaruLenz" },
+    { whatsapp = "https://wa.me/337047828" },
+
+  ]
