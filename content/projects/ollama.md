@@ -1,8 +1,8 @@
 ---
-title: "Project Name 1"
-description: "Brief description of Project 1"
+title: "Ollama"
+description: "Self-hosted LLM server"
 showDate: true
-date: "2025-08-01"
+date: "2024-12-01"
 showAuthor: true
 showReadingTime: true
 ---

@@ -2,8 +2,15 @@
 title: "BudgetWise - AI Powered Budget Manager"
 description: "Cloud-native budget management platform with AI-driven insights"
 date: "2025-08-01"
+showHero: false
 tags: ["AWS", "FastAPI", "React", "AI", "Docker"]
 ---
+
+## Association
+
+**Role:** Cloud Engineer Intern  
+**Company:** [Amazon Web Service Vietnam](https://masothue.com/0314175120-cong-ty-tnhh-amazon-web-services-viet-nam)  
+**Project Link:** [BudgetWise](https://workshop.suba-server.org)  
 
 ## Project Overview
 
@@ -45,4 +52,12 @@ tags: ["AWS", "FastAPI", "React", "AI", "Docker"]
 
 ## External resources
 
-[Frontend](https://github.com/SubaruLenz/Budget-Tracker-Frontend) | [Backend](https://github.com/SubaruLenz/Budget-Tracker-Backend) | [Docs](https://workshop.suba-server.org)
+### Frontend
+{{< github repo="SubaruLenz/Budget-Tracker-Frontend" showThumbnail=false >}}
+
+### Backend
+
+{{< github repo="SubaruLenz/Budget-Tracker-Backend" showThumbnail=false >}}
+
+### Documentation
+[Docs](https://workshop.suba-server.org)
