@@ -1,5 +1,5 @@
 ---
-title: "Devto-c - A clone of Dev.to to practice T3 stack"
+title: "Devto-c - Practice T3 Stack With Dev.to Inspiration"
 description: "Full-stack social platform for developers built with modern web technologies"
 date: "2025-09-02"
 showDate: true

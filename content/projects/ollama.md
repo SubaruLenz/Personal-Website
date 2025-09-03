@@ -1,14 +1,14 @@
 ---
-title: "Ollama"
-description: "Self-hosted LLM server"
+title: "Ollama - Self-hosted Multi Language Model"
+description: "Self-hosted LLM server with monitoring and networking study"
 showDate: true
 date: "2024-12-01"
 showAuthor: true
 showReadingTime: true
 ---
 
-**Tech Stack:** [Technologies used]
+**Tech Stack:** Ubuntu Server, Cloudflare, Docker, Prometheus, Grafana
 
-[2-3 sentence description of the project and what it does]
+**Duration:** 12 months | **Team:** 1 member
 
-[View on GitHub](#) | [Live Demo](#)
+Built a dual-PC self-hosted server setup for studying networking and hosting services. One low-energy PC hosts the website using Cloudflare tunnel with a personal domain, while a high-energy server handles compute-intensive tasks. All services including the website, Cloudflare tunnel, and large language models are Dockerized for efficient resource management and automatic restarts, with performance monitoring through Prometheus and log visualization via Grafana.
