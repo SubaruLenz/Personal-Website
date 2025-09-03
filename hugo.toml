@@ -1,4 +1,4 @@
 baseURL = 'https://suba-server.org'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My Personal Website'
 theme = 'blowfish'

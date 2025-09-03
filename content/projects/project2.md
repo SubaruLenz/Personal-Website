@@ -1,9 +1,10 @@
 ---
 title: "Project Name 2"
 description: "Brief description of Project 2"
-showDate: false
-showAuthor: false
-showReadingTime: false
+showDate: true
+date: "2025-08-01"
+showAuthor: true
+showReadingTime: true
 ---
 
 **Tech Stack:** [Technologies used]

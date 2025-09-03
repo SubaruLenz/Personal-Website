@@ -1,23 +1,10 @@
 ---
-title: "[Your Name] – [Your Title] | [Your Focus]"
-description: "Personal website and portfolio"
+title: "Nguyen Trung Kien - Software Developer"
+description: "Personal website and CV showcase"
 ---
 
-# Welcome!
+## About Me
 
-I'm **[Your Name]**, a [your role] passionate about [your interests]. Currently [current position/status], I'm [what you're working on/preparing for].
+Hi, I’m **Kien** — welcome to my space on the internet 🌸. 
 
-## Quick Navigation
-[About Me](/about) - Learn about my background
-
-[Skills](/skills) - Technical expertise
-
-[Projects](/projects) - My work showcase
-
-[Resume](/resume) - Professional experience
-
-[Contact](/contact) - Let's connect
-
----
-
-*[Your personal tagline or motto]*
+I’m currently finishing my computer science degree at [Swinburne University of Technology](https://swinburne-vn.edu.vn) and graduating this October. Beyond the classroom, I love tinkering with Linux, experimenting with DevOps pipelines, and diving into languages and music. I’m always looking for new challenges and opportunities to grow.

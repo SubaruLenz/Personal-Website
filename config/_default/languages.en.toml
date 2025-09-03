@@ -2,14 +2,14 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "My personal website"
+title = "My Personal Website"
 
 [params]
   displayName = "EN"
   isoCode = "en"
   rtl = false
   dateFormat = "January 2, 2006"
-  # logo = "img/logo.png"
+  # logo = "profile_rounded.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Personal website and portfolio"
   # copyright = "Copy, _right?_ :thinking_face:"
@@ -17,9 +17,9 @@ title = "My personal website"
 [params.author]
   name = "Nguyen Trung Kien"
   image = "profile.jpeg"
-  email = "admin@suba-server@org"
-  headline = "Software Developer Intern at FCJ"
-  bio = "Software Developer Intern at FCJ"
+  email = "admin@suba-server.org"
+  headline = "Software Developer | Linux Enthusiast"
+  bio = "Software Developer | Linux Enthusiast"
   links = [
     { email = "mailto:admin@suba-server.org" },
     { link = "https://suba-server.org/" },
