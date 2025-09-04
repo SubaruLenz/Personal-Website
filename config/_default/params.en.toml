@@ -23,9 +23,9 @@ disableImageOptimizationMD = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "background_dark.gif" # used as default for background images 
+defaultBackgroundImage = "Space @ 45 - Day.gif" # used as default for background images 
 defaultFeaturedImage = "pattern.jpeg" # used as default for featured images in all articles
-defaultSocialImage = "profile_rounded.png" # used as default for social media sharing (Open Graph and Twitter)
+# defaultSocialImage = "profile_rounded.png" # used as default for social media sharing (Open Graph and Twitter)
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
@@ -48,7 +48,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "background_light.gif" # used in: hero, and card
+  homepageImage = "Space @ 45 - Night.gif" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
   showMoreLink = true
