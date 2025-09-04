@@ -23,7 +23,7 @@ disableImageOptimizationMD = false
 disableTextInHeader = false
 # backgroundImageWidth = 1200
 
-defaultBackgroundImage = "https://cdn.dribbble.com/userupload/19819187/file/original-155b99d87531c23292a3be29193432f4.gif" # used as default for background images 
+defaultBackgroundImage = "space@45-day.gif" # used as default for background images 
 defaultFeaturedImage = "pattern.jpeg" # used as default for featured images in all articles
 defaultSocialImage = "profile_rounded.png" # used as default for social media sharing (Open Graph and Twitter)
 
@@ -48,7 +48,7 @@ forgejoDefaultServer = "https://v11.next.forgejo.org"
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepageImage = "https://cdn.dribbble.com/userupload/19819185/file/original-f2b82941621c710352274a3397d4fb17.gif" # used in: hero, and card
+  homepageImage = "space@45-night.gif" # used in: hero, and card
   showRecent = true
   showRecentItems = 3
   showMoreLink = true
