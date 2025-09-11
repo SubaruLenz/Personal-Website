@@ -1,8 +1,8 @@
 ---
 title: "SwafaX - Fashion Exchange Mobile App"
 description: "Fashion exchange mobile app with real-time communication"
-showDate: true
 date: "2025-04-06"
+showDate: true
 showAuthor: true
 showReadingTime: true
 tags: ["Flutter", "Go", "PostgreSQL", "WebSocket", "Docker", "Cloudflare"]

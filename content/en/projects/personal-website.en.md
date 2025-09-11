@@ -2,7 +2,9 @@
 title: "Personal Website - My Digital Portfolio"
 description: "Professional portfolio website showcasing my journey as a software developer and DevOps enthusiast"
 date: "2025-01-01"
-showHero: false
+showDate: true
+showAuthor: true
+showReadingTime: true
 tags: ["Hugo", "Blowfish", "Portfolio", "Static Site", "GitHub Pages"]
 ---
 

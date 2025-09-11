@@ -5,7 +5,11 @@ description: "Personal website and CV showcase"
 
 ## About Me
 
-Hi, My name is **Kien** — welcome to my space on the internet 🌸
+{{< typeit 
+  speed=35
+>}}
+Hi, My name is <b>Kien</b> — welcome to my space on the internet 🌸
+{{< /typeit >}}
 
 I'm currently finishing my computer science degree at  
 [Swinburne University of Technology](https://swinburne-vn.edu.vn)  

@@ -8,15 +8,16 @@ showReadingTime: false
 
 ## Hãy Kết Nối
 
-Tôi luôn sẵn sàng thảo luận về các cơ hội thú vị và dự án công nghệ.
+Tôi luôn hào hứng gặp gỡ những người có chung đam mê về công nghệ, sáng tạo và học hỏi không ngừng. Dù là để hợp tác, cố vấn, hay chỉ đơn giản là trò chuyện về Linux ricing và cloud pipelines — hãy thoải mái liên hệ.
 
 ### Liên Hệ
-- **Email:** [your-email@domain.com](mailto:your-email@domain.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Email:** [admin@suba-server.org](mailto:admin@suba-server.org)  
+- **LinkedIn:** [linkedin.com/in/nguyetrungkien](https://linkedin.com/in/nguyetrungkien/)  
+- **GitHub:** [github.com/SubaruLenz](https://github.com/SubaruLenz)  
+
+---
 
 ### Trọng Tâm Hiện Tại
-- Tôi đang tìm kiếm cơ hội thực tập để có thêm thách thức và cơ hội gặp gỡ những người tuyệt vời
-- Quan tâm đến các dự án DevOps và Cloud Engineering
-- Sẵn sàng hợp tác trong các dự án phát triển phần mềm
-- Có thể tham gia các dự án ngắn hạn và dài hạn
+- 🌱 Đang tìm kiếm **cơ hội thực tập** để đón nhận thử thách mới và kết nối với những người truyền cảm hứng.  
+- ☁️ Quan tâm đến hợp tác trong **DevOps, Cloud Engineering và Phát triển Phần mềm**.  
+- 🤝 Sẵn sàng đóng góp cho **các dự án cá nhân hoặc mã nguồn mở** trong thời gian rảnh.

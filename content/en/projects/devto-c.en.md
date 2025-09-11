@@ -7,6 +7,10 @@ showAuthor: true
 showReadingTime: true
 ---
 
+{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
+This is a work in progress. You can visit my website on this link [Website](https://devto-c.vercel.app)
+{{< /alert >}}
+
 ## DevTo-C
 
 A full-featured clone of Dev.to built with modern web technologies, focusing on performance and developer experience.
@@ -59,12 +63,6 @@ Building DevTo-C was an excellent opportunity to work with the complete T3 stack
 ## Progress
 
 - [x] Project init and added to the github repository
-
-{{< alert icon="fire" cardColor="#e63946" iconColor="#1d3557" textColor="#f1faee" >}}
-This is a work in progress. You can visit my website on this link [Website](https://devto-c.vercel.app)
-{{< /alert >}}
-
----
 
 ## External Resources
 

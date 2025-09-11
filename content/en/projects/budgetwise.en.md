@@ -2,7 +2,9 @@
 title: "BudgetWise - AI Powered Budget Manager"
 description: "Cloud-native budget management platform with AI-driven insights"
 date: "2025-08-01"
-showHero: false
+showDate: true
+showAuthor: true
+showReadingTime: true
 tags: ["AWS", "FastAPI", "React", "AI", "Docker"]
 ---
 

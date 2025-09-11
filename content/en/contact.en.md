@@ -8,15 +8,16 @@ showReadingTime: false
 
 ## Let's Connect
 
-[Brief message about your availability and interests]
+I’m always excited to meet people who share a passion for technology, creativity, and continuous learning. Whether it’s for collaboration, mentorship, or just a good chat about Linux ricing and cloud pipelines — feel free to reach out.  
 
 ### Reach Out
-- **Email:** [your-email@domain.com](mailto:your-email@domain.com)
-- **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)
+- **Email:** [admin@suba-server.org](mailto:admin@suba-server.org)  
+- **LinkedIn:** [linkedin.com/in/nguyetrungkien](https://linkedin.com/in/nguyetrungkien/)  
+- **GitHub:** [github.com/SubaruLenz](https://github.com/SubaruLenz)  
+
+---
 
 ### Current Focus
-- [What you're looking for - internships, opportunities, etc.]
-- I'm looking for an internship oppotunity for more challenge and opotunities to meet more awesome
-- [Areas of interest for collaboration]
-- [Availability for projects]
+- 🌱 Looking for an **internship opportunity** to take on new challenges and connect with inspiring people.  
+- ☁️ Interested in **DevOps, Cloud Engineering, and Software Development** collaborations.  
+- 🤝 Open to contributing to **personal projects or open-source** in my free time.  
